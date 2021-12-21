@@ -16,7 +16,3 @@ activation_function = nn.Sigmoid()
 
 Cross Entropy loss function already uses a softmax activation function
 so an activation function isn't used on the output layer
-
-Lab7 for base implementation Then modified myself
-Youtube video to help initialize weights reference below:
-Aladdin Persson, “Youtube,” 10 April 2020. [Online]. Available: https://www.youtube.com/watch?v=xWQ-p_o0Uik.
